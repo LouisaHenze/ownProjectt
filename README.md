@@ -1,6 +1,7 @@
 # My own Project - Example of README File
 This is just some normal text. You could explain how to use the program that is contained in this directory. 
 You can also incorporate code snippets like
+
     int x_offset = 5;
     for(i = 0; i < 10; i++){
         x_offset += 2;
